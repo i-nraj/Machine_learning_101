@@ -4,5 +4,7 @@ Hello there! 👋 I'm Nishant Raj, and this is my repository where I document my
 
 Connect with Me
 LinkedIn: www.linkedin.com/in/nraj24/
+
 Twitter: @NrajM22
+
 Email: nishant.rjm@gmail.com
